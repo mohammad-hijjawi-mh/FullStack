@@ -1,0 +1,31 @@
+/* this is mohammad code */
+
+#password{
+
+    
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 0.8cm ;
+    margin-top: 8px;
+    background-color: orange;
+    
+}
+
+::placeholder {
+    color: black;
+}
+
+#btn{
+
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    margin-left:80px;
+    margin-top: 8px;
+    
+    background-color: orange;
+
+    
+}
