@@ -1,31 +1,32 @@
-/* this is mohammad code */
-
-#password{
-
-    
+#email{
     width: 270px;
     height: 30px;
     text-align: center;
     margin-left: 10px;
-    border-radius: 0.8cm ;
-    margin-top: 8px;
+    margin-top: 6px;
+    border-radius: 0.8cm;
     background-color: orange;
+    }
     
-}
-
-::placeholder {
-    color: black;
-}
-
-#btn{
-
-    width: 120px;
-    height: 30px;
-    text-align: center;
-    margin-left:80px;
-    margin-top: 8px;
     
-    background-color: orange;
-
     
+#username{
+        width: 270px;
+        height: 30px;
+        text-align: center;
+        margin-left: 10px;
+        border-radius: 0.8cm ;
+        margin-top: 8px;
+        background-color: orange;
+    
+    }
+    
+.message{
+        text-align: center;
+        color: white;
+    }
+    
+a{
+        color: orange;
+        text-decoration: none;
 }
