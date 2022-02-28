@@ -1,0 +1,111 @@
+
+/* this is for login page */
+body{
+    padding: 0;
+    margin: 0;
+   box-sizing: border-box;
+} /* this is for handling body */
+
+
+.main{
+
+    text-align: center;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50% ,rgba(0,0,0,0.5)50%), url(2.jpg);
+    margin-top: 0%;
+    padding-top: 0%;
+    height: 1050px;
+    width: auto;
+    
+} 
+
+.border{
+    border: solid black 2px ;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top :0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border-radius: 0.7cm;
+}
+/* this is for main border */ 
+
+#email{
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 6px;
+    border-radius: 0.8cm;
+    background-color: orange;
+}
+
+#password{
+
+    
+    width: 270px;
+    height: 30px;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 0.8cm ;
+    margin-top: 8px;
+    background-color: orange;
+    
+}
+
+::placeholder {
+    color: black;
+}
+
+
+#facebook{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+
+#google{
+    width: 50px;
+    height: 50px; 
+    padding:5px;
+    margin-left: 30px;
+    
+}
+
+.img1{
+    padding: 2px;
+    display: flex;
+}
+.img2{
+    padding:2px ;
+    display: flex;
+}
+
+  
+a{
+    color: orange;
+    text-decoration: none;
+}
+
+
+#btn{
+
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    margin-left:80px;
+    margin-top: 8px;
+    
+    background-color: rgb(135, 62, 163);
+
+    
+}
+
+h1{
+    color: black;
+    margin-top: 0%;
+}
