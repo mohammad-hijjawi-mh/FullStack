@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50% ,rgba(0,0,0,0.5)50%), url(2.jpg);
+    text-align: center;
+}
+
+#btn{
+    
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    margin-left:80px;
+    margin-top: 8px;
+    
+    background-color: orange;
+
+}
+.btns{
+    display: flex;
+} /* this is for control buttons */
